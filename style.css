@@ -1,0 +1,225 @@
+* {
+    margin: 0;
+    padding: 0px;
+}
+
+.banner {
+    background-image: url('./images/banner/banner3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 809px;
+    width: 1600px;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+
+
+}
+
+.banner-title {
+    text-align: right;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    text-align: right;
+    margin-top: 216px;
+    margin-right: 155px;
+
+}
+
+.banner-description {
+    font-family: 'Work Sans';
+    text-align: right;
+    color: white;
+    font-size: 18px;
+    margin-top: 60px;
+    margin-right: 155px;
+
+}
+
+.banner-btn {
+    background: #FFFFFF;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    color: #005FAC;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 1290px;
+    margin-top: 50px;
+}
+
+.main-container {
+    display: flex;
+    /* justify-content: center; */
+
+
+}
+
+.contant-img {
+    margin-top: 78px;
+}
+
+.contant-desk {
+    text-align: left;
+    margin-left: 226px;
+}
+
+.contant-title {
+    text-align: left;
+    color: #151414;
+    font-weight: 700;
+    font-size: 60px;
+    font: bold;
+    margin-top: 280px;
+}
+
+.contant-description {
+    text-align: left;
+    margin-top: 50px;
+    color: #444343;
+    font-size: 20px;
+}
+
+.contant-list {
+    text-align: left;
+    margin-top: 35px;
+    color: #444343;
+    font-size: 20px;
+
+}
+
+.list {
+    padding: 5px;
+}
+
+.plan {
+    font-size: 40px;
+    color: black;
+    font-size: bold;
+    margin-top: 178px;
+    margin-left: 730px;
+
+}
+
+.planning-info {
+    display: flex;
+    margin-top: 104px;
+
+
+}
+
+.no-1 {
+    margin-left: 280px;
+    align-items: center;
+
+}
+
+.no-2 {
+    margin-left: 120px;
+}
+
+.no-3 {
+    margin-left: 160px;
+
+}
+
+.no-4 {
+    margin-left: 115px;
+}
+
+.heading-info {
+    font-weight: 700;
+    font-size: 30px;
+    color: black;
+}
+
+.sub-heading-info {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+
+.another-contant {
+    background-image: url('./images/watch.png');
+    background-repeat: no-repeat;
+    width: 1440px;
+    height: 300px;
+    margin-left: 240px;
+    margin-top: 125px;
+}
+
+.contant-heading {
+    color: white;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 47px;
+    margin-left: 85px;
+   margin-trim: 44px
+   ;
+   
+}
+.another-btn{
+    font-size: 24px;
+    background: #FFFFFF;
+    width: 140px;
+    height: 54px;
+    border-radius: 5px;
+    color: #005FAC;
+    margin-top: 30px;
+    margin-left: 66px;
+
+}
+.footer {
+    display: flex;
+    margin-top: 178px;
+    width: 1600px;
+    height: 577px;
+    background: #151414;
+}
+
+.div-1 {
+    margin-left: 75px;
+    /* margin-top: 223px; */
+
+}
+
+.div-2 {
+    margin-left: 799px;
+}
+
+.head-title {
+    font-size: 34px;
+    color: white;
+    margin-top: 205px;
+}
+
+.footer-des {
+    color: white;
+    margin-top: 14px;
+  
+}
+.logo{
+   margin-top: 25px;
+}
+
+.head-2 {
+    color: white;
+    margin-top: 204px;
+}
+.email-title{
+    background: black;
+    margin-top: 15px;
+    
+
+}
+.last-btn{
+    margin-top: 20px;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: blue;
+    color:white;
+}
